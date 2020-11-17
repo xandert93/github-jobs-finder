@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/github-jobs-finder/static/js/main.d50d652f.chunk.js",
+    "main.js.map": "/github-jobs-finder/static/js/main.d50d652f.chunk.js.map",
+    "runtime-main.js": "/github-jobs-finder/static/js/runtime-main.e79c234f.js",
+    "runtime-main.js.map": "/github-jobs-finder/static/js/runtime-main.e79c234f.js.map",
+    "static/js/2.f45f12b6.chunk.js": "/github-jobs-finder/static/js/2.f45f12b6.chunk.js",
+    "static/js/2.f45f12b6.chunk.js.map": "/github-jobs-finder/static/js/2.f45f12b6.chunk.js.map",
+    "index.html": "/github-jobs-finder/index.html",
+    "static/js/2.f45f12b6.chunk.js.LICENSE.txt": "/github-jobs-finder/static/js/2.f45f12b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e79c234f.js",
+    "static/js/2.f45f12b6.chunk.js",
+    "static/js/main.d50d652f.chunk.js"
+  ]
+}
